@@ -5,6 +5,6 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<h1>Welcom to website</h1>
+	<h1><a href="BT2.html"></a></h1>
 </body>
 </html>
